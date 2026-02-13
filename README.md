@@ -4,9 +4,9 @@ A smart chatbot powered by Google Gemini and equipped with web search capabiliti
 
 ## Features
 - **Agentic Capabilities**: Can reason and use tools (Web Search) to answer complex queries.
-- **Powered by Gemini**: Uses Google's latest Gemini 1.5 models.
+- **Powered by Gemini**: Uses Google's latest Gemini models.
 - **Streamlit interface**: Clean and responsive chat UI.
-- **Customizable**: Select models and input API keys via the sidebar.
+- **Customizable**: Select models via the sidebar.
 
 ## Setup
 
@@ -18,7 +18,6 @@ A smart chatbot powered by Google Gemini and equipped with web search capabiliti
 3.  **Environment Variables**:
     -   Create a `.env` file in the root directory.
     -   Add your Google API Key: `GOOGLE_API_KEY=your_key_here`
-    -   *Alternatively, you can enter the key in the app sidebar.*
 
 ## Usage
 
